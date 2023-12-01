@@ -136,18 +136,18 @@ const SelectTemplateDetails = () => {
     setEditIndex(index);
   
     // Find the selected feature from featuresDrop
-    const selectedFeatureObject = featuresDrop.find(
-      (feature) => feature.featureName === featureToEdit.featureName
-    );
+    // const selectedFeatureObject = featuresDrop.find(
+    //   (feature) => feature.featureName === featureToEdit.featureName
+    // );
  
   };
 
   const handleFeatureChange = (e) => {
     const selectedFeature = e.target.value;
     setCurrentFeature(selectedFeature);
-    const selectedFeatureObject = featuresDrop.find(
-      (feature) => feature.featureName === selectedFeature
-    );
+    // const selectedFeatureObject = featuresDrop.find(
+    //   (feature) => feature.featureName === selectedFeature
+    // );
 
    
   };

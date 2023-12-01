@@ -1,7 +1,7 @@
 import { NavLink } from "react-router-dom";
 import { FaBars, FaHome,FaUser } from "react-icons/fa";
 import { MdAddCircle, MdOutlineVideoLibrary } from "react-icons/md";
-import {BiCaretRight, BiImages} from "react-icons/bi"
+import {BiCaretRight} from "react-icons/bi"
 import { useEffect, useState } from "react";
 import { AnimatePresence, motion } from "framer-motion";
 import SidebarMenu from "./SidebarMenu";

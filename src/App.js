@@ -9,7 +9,6 @@ import Login from "./pages/auth/Login";
 import Dashboard from "./pages/dashbord/Dashboard";
 import Userlist from "./pages/Users_list/UserList";
 import Footer from "./components/Footer";
-import Loder from "./components/Loader";
 import Sidebar from "./components/sidebar/SideBar";
 import Appbar from "./components/Appbar";
 
