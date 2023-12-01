@@ -1,0 +1,13 @@
+
+SUPERADMIN
+1  mene ek api bnayi jiske andr featur add honge us api me featur name or ek field name ka arraya hoga jisme field ka name or type hoga
+(id , name , field [])
+2 mene field ka name de diya npc ab me uske andr field add krunga ki field name npc msg or field ka type text hoga 
+
+3 fir mene isme ek api bnayi jo template ke name ko add kregi or usme uski id hogi or ek feture name ka arraye hoga 
+(id , name , feature [])
+
+4 mene jiase ek feature create kiya rajwada ab me uske andr featur add krna chta tb me featur bali api  se fetur select kr lunga or ye v deside kr dunga ki is environment ke andr kitne fetur hoge is name ke jaise npc 5 ho skte video 2 ho skti
+
+ADMIN
+admin ke liye mene ak api bnayi jisme admin super admin ne jitne v template bnaye unme se jo v chahe select kr skta hai or is fetur ko select and add krte tuiuime mene ek featur name ka array v add kiya hai jisem admin us templet ke andr jo jo v fetur add krna chata kr skta hai ir uske max num show kraya ki ki kisi perticular fetur ko max kitne use kr skta hai jaise rajwada ke andr 5 npc deside kre super admin ne tb admin max 5 hi selct kr skta hai kam kr skta hai usse but jayda nhi 

@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+.navbar {
+  --bs-navbar-padding-x: 0;
+  --bs-navbar-padding-y: 0;}
+
+
